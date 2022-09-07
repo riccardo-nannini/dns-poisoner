@@ -24,6 +24,9 @@ Once an attack is detected, a log will be created in a log file named **attack_l
 <p align="center">- IP from response #1</p>
 <p align="center">- IP from response #2</p>
 
+## Disclaimer :page_facing_up:
+
+All information and software available on this repository are for educational purposes only. Usage of tools from this repository for attacking targets without prior mutual consent is illegal. It is the end user’s responsibility to obey all applicable local, state and federal laws.
 
 ## Developer :busts_in_silhouette:
  #### Riccardo Nannini :it:
